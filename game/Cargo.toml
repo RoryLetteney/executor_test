@@ -1,0 +1,8 @@
+
+[package]
+name = "executor_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fyrox = "0.31.0"
